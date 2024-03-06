@@ -9,13 +9,6 @@ package javaapp;
  *
  * @author SCIS-PC20
  */
-public class JavaApp {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Data {
     
 }
