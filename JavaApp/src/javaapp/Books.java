@@ -40,6 +40,11 @@ public class Books{
         System.out.println(".");
     
     }
+
+    public String toString(){
+        return "titulo" + this.title + "Autor" + this.author + this.genre;
+    
+    }
         
 }
 
